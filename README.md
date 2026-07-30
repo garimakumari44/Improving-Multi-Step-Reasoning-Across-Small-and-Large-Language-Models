@@ -4,6 +4,12 @@
 
 ---
 
+> **🚧 Project Status**
+>
+> This project is currently **under active development**. New reasoning strategies, distillation techniques, evaluation benchmarks, and optimization methods are being continuously implemented and refined. The repository will be updated as experiments progress and new research findings are incorporated.
+>
+> 
+
 ## 📌 Overview
 
 Large Language Models (LLMs) have demonstrated exceptional performance on complex reasoning tasks but often require significant computational resources. Smaller language models, while faster and more efficient, typically struggle with multi-step reasoning and long-horizon decision-making.
